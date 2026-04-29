@@ -692,7 +692,7 @@
                     Parent = items[ "info" ];
                     TextColor3 = rgb(72, 72, 73);
                     BorderColor3 = rgb(0, 0, 0);
-                    Text = cfg.game_name;
+                    Text = "made by @caesar_sf";
                     Name = "\0";
                     Size = dim2(1, 0, 0, 0);
                     AnchorPoint = vec2(0, 0.5);
