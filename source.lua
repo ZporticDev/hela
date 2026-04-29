@@ -498,7 +498,7 @@
             local cfg = { 
                 suffix = properties.suffix or properties.Suffix or "tech";
                 name = properties.name or properties.Name or "nebula";
-                game_name = properties.gameInfo or properties.game_info or properties.GameInfo or "Milenium for Counter-Strike: Global Offensive";
+                game_name = properties.gameInfo or properties.game_info or properties.GameInfo or "Hela Client for Roblox";
                 size = properties.size or properties.Size or dim2(0, 700, 0, 565);
                 selected_tab;
                 items = {};
