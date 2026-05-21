@@ -13,7 +13,7 @@ task.wait(2)
 local callback = Instance.new("BindableFunction")
 callback.OnInvoke = function(button)
     if button == "ok" then
-        setclipboard("https://discord.gg/invitacion")
+        setclipboard("https://discord.gg/38xwGSBz2u")
     end
 end
 
